@@ -1,0 +1,3587 @@
+{
+ "version": 1,
+ "meta": {
+  "title": "2026年秋季学期",
+  "school": ""
+ },
+ "settings": {
+  "days": [
+   "星期一",
+   "星期二",
+   "星期三",
+   "星期四",
+   "星期五"
+  ],
+  "periods": [
+   "第一节",
+   "第二节",
+   "第三节",
+   "第四节",
+   "第五节",
+   "第六节"
+  ],
+  "breaks": [
+   {
+    "after": 2,
+    "label": "课间操"
+   },
+   {
+    "after": 5,
+    "label": "眼保健操"
+   }
+  ]
+ },
+ "classes": [
+  {
+   "id": "c1",
+   "name": "一年级",
+   "grade": "一年级",
+   "order": 1,
+   "headTeacherId": "t1"
+  },
+  {
+   "id": "c2",
+   "name": "二年级",
+   "grade": "二年级",
+   "order": 2,
+   "headTeacherId": "t4"
+  },
+  {
+   "id": "c3",
+   "name": "三（1）班",
+   "grade": "三年级",
+   "order": 3,
+   "headTeacherId": "t9"
+  },
+  {
+   "id": "c4",
+   "name": "三（2）班",
+   "grade": "三年级",
+   "order": 4,
+   "headTeacherId": "t12"
+  },
+  {
+   "id": "c5",
+   "name": "四（1）班",
+   "grade": "四年级",
+   "order": 5,
+   "headTeacherId": "t15"
+  },
+  {
+   "id": "c6",
+   "name": "四（2）班",
+   "grade": "四年级",
+   "order": 6,
+   "headTeacherId": "t14"
+  },
+  {
+   "id": "c7",
+   "name": "五（1）班",
+   "grade": "五年级",
+   "order": 7,
+   "headTeacherId": "t19"
+  },
+  {
+   "id": "c8",
+   "name": "五（2）班",
+   "grade": "五年级",
+   "order": 8,
+   "headTeacherId": "t20"
+  },
+  {
+   "id": "c9",
+   "name": "六年级",
+   "grade": "六年级",
+   "order": 9,
+   "headTeacherId": "t23"
+  }
+ ],
+ "subjects": [
+  {
+   "id": "s1",
+   "name": "班会",
+   "color": "#e57373"
+  },
+  {
+   "id": "s2",
+   "name": "数学",
+   "color": "#64b5f6"
+  },
+  {
+   "id": "s3",
+   "name": "语文",
+   "color": "#81c784"
+  },
+  {
+   "id": "s4",
+   "name": "唱游·音乐",
+   "color": "#ffb74d"
+  },
+  {
+   "id": "s5",
+   "name": "造型·美术",
+   "color": "#ba68c8"
+  },
+  {
+   "id": "s6",
+   "name": "体育与健康",
+   "color": "#4db6ac"
+  },
+  {
+   "id": "s7",
+   "name": "道德与法治",
+   "color": "#f06292"
+  },
+  {
+   "id": "s8",
+   "name": "科学",
+   "color": "#a1887f"
+  },
+  {
+   "id": "s9",
+   "name": "劳动",
+   "color": "#7986cb"
+  },
+  {
+   "id": "s10",
+   "name": "综合实践",
+   "color": "#dce775"
+  },
+  {
+   "id": "s11",
+   "name": "心理健康/安全",
+   "color": "#4dd0e1"
+  },
+  {
+   "id": "s12",
+   "name": "音乐",
+   "color": "#ff8a65"
+  },
+  {
+   "id": "s13",
+   "name": "美术",
+   "color": "#90a4ae"
+  },
+  {
+   "id": "s14",
+   "name": "外语",
+   "color": "#aed581"
+  },
+  {
+   "id": "s15",
+   "name": "信息科技",
+   "color": "#9575cd"
+  },
+  {
+   "id": "s16",
+   "name": "生命与健康常识",
+   "color": "#ffd54f"
+  },
+  {
+   "id": "s17",
+   "name": "生命健康与常识",
+   "color": "#4fc3f7"
+  },
+  {
+   "id": "s18",
+   "name": "生命健康与知识",
+   "color": "#e0e0e0"
+  }
+ ],
+ "teachers": [
+  {
+   "id": "t1",
+   "name": "孔子",
+   "note": ""
+  },
+  {
+   "id": "t2",
+   "name": "孟子",
+   "note": ""
+  },
+  {
+   "id": "t3",
+   "name": "荀子",
+   "note": ""
+  },
+  {
+   "id": "t4",
+   "name": "墨子",
+   "note": ""
+  },
+  {
+   "id": "t5",
+   "name": "庄子",
+   "note": ""
+  },
+  {
+   "id": "t6",
+   "name": "韩愈",
+   "note": ""
+  },
+  {
+   "id": "t7",
+   "name": "柳宗元",
+   "note": ""
+  },
+  {
+   "id": "t8",
+   "name": "欧阳修",
+   "note": ""
+  },
+  {
+   "id": "t9",
+   "name": "苏轼",
+   "note": ""
+  },
+  {
+   "id": "t10",
+   "name": "王安石",
+   "note": ""
+  },
+  {
+   "id": "t11",
+   "name": "司马光",
+   "note": ""
+  },
+  {
+   "id": "t12",
+   "name": "朱熹",
+   "note": ""
+  },
+  {
+   "id": "t13",
+   "name": "王阳明",
+   "note": ""
+  },
+  {
+   "id": "t14",
+   "name": "李白",
+   "note": ""
+  },
+  {
+   "id": "t15",
+   "name": "杜甫",
+   "note": ""
+  },
+  {
+   "id": "t16",
+   "name": "白居易",
+   "note": ""
+  },
+  {
+   "id": "t17",
+   "name": "王维",
+   "note": ""
+  },
+  {
+   "id": "t18",
+   "name": "陶渊明",
+   "note": ""
+  },
+  {
+   "id": "t19",
+   "name": "屈原",
+   "note": ""
+  },
+  {
+   "id": "t20",
+   "name": "司马迁",
+   "note": ""
+  },
+  {
+   "id": "t21",
+   "name": "班昭",
+   "note": ""
+  },
+  {
+   "id": "t22",
+   "name": "李清照",
+   "note": ""
+  },
+  {
+   "id": "t23",
+   "name": "张衡",
+   "note": ""
+  }
+ ],
+ "plans": [
+  {
+   "id": "p1",
+   "classId": "c1",
+   "subjectId": "s1",
+   "teacherId": "t1",
+   "hours": 1
+  },
+  {
+   "id": "p2",
+   "classId": "c1",
+   "subjectId": "s10",
+   "teacherId": "t1",
+   "hours": 1
+  },
+  {
+   "id": "p3",
+   "classId": "c1",
+   "subjectId": "s2",
+   "teacherId": "t1",
+   "hours": 4
+  },
+  {
+   "id": "p4",
+   "classId": "c1",
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "hours": 8
+  },
+  {
+   "id": "p5",
+   "classId": "c1",
+   "subjectId": "s4",
+   "teacherId": "t2",
+   "hours": 2
+  },
+  {
+   "id": "p6",
+   "classId": "c1",
+   "subjectId": "s5",
+   "teacherId": "t1",
+   "hours": 2
+  },
+  {
+   "id": "p7",
+   "classId": "c1",
+   "subjectId": "s6",
+   "teacherId": "t1",
+   "hours": 2
+  },
+  {
+   "id": "p8",
+   "classId": "c1",
+   "subjectId": "s6",
+   "teacherId": "t2",
+   "hours": 1
+  },
+  {
+   "id": "p9",
+   "classId": "c1",
+   "subjectId": "s6",
+   "teacherId": "t3",
+   "hours": 1
+  },
+  {
+   "id": "p10",
+   "classId": "c1",
+   "subjectId": "s7",
+   "teacherId": "t2",
+   "hours": 2
+  },
+  {
+   "id": "p11",
+   "classId": "c1",
+   "subjectId": "s8",
+   "teacherId": "t1",
+   "hours": 1
+  },
+  {
+   "id": "p12",
+   "classId": "c1",
+   "subjectId": "s9",
+   "teacherId": "t2",
+   "hours": 1
+  },
+  {
+   "id": "p13",
+   "classId": "c2",
+   "subjectId": "s1",
+   "teacherId": "t4",
+   "hours": 1
+  },
+  {
+   "id": "p14",
+   "classId": "c2",
+   "subjectId": "s10",
+   "teacherId": "t5",
+   "hours": 1
+  },
+  {
+   "id": "p15",
+   "classId": "c2",
+   "subjectId": "s2",
+   "teacherId": "t5",
+   "hours": 4
+  },
+  {
+   "id": "p16",
+   "classId": "c2",
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "hours": 8
+  },
+  {
+   "id": "p17",
+   "classId": "c2",
+   "subjectId": "s4",
+   "teacherId": "t4",
+   "hours": 2
+  },
+  {
+   "id": "p18",
+   "classId": "c2",
+   "subjectId": "s5",
+   "teacherId": "t5",
+   "hours": 2
+  },
+  {
+   "id": "p19",
+   "classId": "c2",
+   "subjectId": "s6",
+   "teacherId": "t5",
+   "hours": 1
+  },
+  {
+   "id": "p20",
+   "classId": "c2",
+   "subjectId": "s6",
+   "teacherId": "t6",
+   "hours": 1
+  },
+  {
+   "id": "p21",
+   "classId": "c2",
+   "subjectId": "s6",
+   "teacherId": "t7",
+   "hours": 1
+  },
+  {
+   "id": "p22",
+   "classId": "c2",
+   "subjectId": "s6",
+   "teacherId": "t8",
+   "hours": 1
+  },
+  {
+   "id": "p23",
+   "classId": "c2",
+   "subjectId": "s7",
+   "teacherId": "t4",
+   "hours": 2
+  },
+  {
+   "id": "p24",
+   "classId": "c2",
+   "subjectId": "s8",
+   "teacherId": "t5",
+   "hours": 1
+  },
+  {
+   "id": "p25",
+   "classId": "c2",
+   "subjectId": "s9",
+   "teacherId": "t4",
+   "hours": 1
+  },
+  {
+   "id": "p26",
+   "classId": "c3",
+   "subjectId": "s1",
+   "teacherId": "t9",
+   "hours": 1
+  },
+  {
+   "id": "p27",
+   "classId": "c3",
+   "subjectId": "s10",
+   "teacherId": "t10",
+   "hours": 1
+  },
+  {
+   "id": "p28",
+   "classId": "c3",
+   "subjectId": "s11",
+   "teacherId": "t10",
+   "hours": 1
+  },
+  {
+   "id": "p29",
+   "classId": "c3",
+   "subjectId": "s12",
+   "teacherId": "t10",
+   "hours": 2
+  },
+  {
+   "id": "p30",
+   "classId": "c3",
+   "subjectId": "s13",
+   "teacherId": "t9",
+   "hours": 2
+  },
+  {
+   "id": "p31",
+   "classId": "c3",
+   "subjectId": "s14",
+   "teacherId": "t10",
+   "hours": 2
+  },
+  {
+   "id": "p32",
+   "classId": "c3",
+   "subjectId": "s15",
+   "teacherId": "t6",
+   "hours": 1
+  },
+  {
+   "id": "p33",
+   "classId": "c3",
+   "subjectId": "s16",
+   "teacherId": "t10",
+   "hours": 1
+  },
+  {
+   "id": "p34",
+   "classId": "c3",
+   "subjectId": "s2",
+   "teacherId": "t10",
+   "hours": 4
+  },
+  {
+   "id": "p35",
+   "classId": "c3",
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "hours": 7
+  },
+  {
+   "id": "p36",
+   "classId": "c3",
+   "subjectId": "s6",
+   "teacherId": "t10",
+   "hours": 2
+  },
+  {
+   "id": "p37",
+   "classId": "c3",
+   "subjectId": "s6",
+   "teacherId": "t11",
+   "hours": 1
+  },
+  {
+   "id": "p38",
+   "classId": "c3",
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "hours": 2
+  },
+  {
+   "id": "p39",
+   "classId": "c3",
+   "subjectId": "s8",
+   "teacherId": "t11",
+   "hours": 2
+  },
+  {
+   "id": "p40",
+   "classId": "c3",
+   "subjectId": "s9",
+   "teacherId": "t9",
+   "hours": 1
+  },
+  {
+   "id": "p41",
+   "classId": "c4",
+   "subjectId": "s1",
+   "teacherId": "t12",
+   "hours": 1
+  },
+  {
+   "id": "p42",
+   "classId": "c4",
+   "subjectId": "s10",
+   "teacherId": "t12",
+   "hours": 1
+  },
+  {
+   "id": "p43",
+   "classId": "c4",
+   "subjectId": "s11",
+   "teacherId": "t12",
+   "hours": 1
+  },
+  {
+   "id": "p44",
+   "classId": "c4",
+   "subjectId": "s12",
+   "teacherId": "t12",
+   "hours": 2
+  },
+  {
+   "id": "p45",
+   "classId": "c4",
+   "subjectId": "s13",
+   "teacherId": "t13",
+   "hours": 2
+  },
+  {
+   "id": "p46",
+   "classId": "c4",
+   "subjectId": "s14",
+   "teacherId": "t14",
+   "hours": 2
+  },
+  {
+   "id": "p47",
+   "classId": "c4",
+   "subjectId": "s15",
+   "teacherId": "t12",
+   "hours": 1
+  },
+  {
+   "id": "p48",
+   "classId": "c4",
+   "subjectId": "s17",
+   "teacherId": "t13",
+   "hours": 1
+  },
+  {
+   "id": "p49",
+   "classId": "c4",
+   "subjectId": "s2",
+   "teacherId": "t13",
+   "hours": 4
+  },
+  {
+   "id": "p50",
+   "classId": "c4",
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "hours": 7
+  },
+  {
+   "id": "p51",
+   "classId": "c4",
+   "subjectId": "s6",
+   "teacherId": "t13",
+   "hours": 3
+  },
+  {
+   "id": "p52",
+   "classId": "c4",
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "hours": 2
+  },
+  {
+   "id": "p53",
+   "classId": "c4",
+   "subjectId": "s8",
+   "teacherId": "t13",
+   "hours": 2
+  },
+  {
+   "id": "p54",
+   "classId": "c4",
+   "subjectId": "s9",
+   "teacherId": "t13",
+   "hours": 1
+  },
+  {
+   "id": "p55",
+   "classId": "c5",
+   "subjectId": "s1",
+   "teacherId": "t15",
+   "hours": 1
+  },
+  {
+   "id": "p56",
+   "classId": "c5",
+   "subjectId": "s10",
+   "teacherId": "t7",
+   "hours": 1
+  },
+  {
+   "id": "p57",
+   "classId": "c5",
+   "subjectId": "s11",
+   "teacherId": "t16",
+   "hours": 1
+  },
+  {
+   "id": "p58",
+   "classId": "c5",
+   "subjectId": "s12",
+   "teacherId": "t15",
+   "hours": 2
+  },
+  {
+   "id": "p59",
+   "classId": "c5",
+   "subjectId": "s13",
+   "teacherId": "t7",
+   "hours": 2
+  },
+  {
+   "id": "p60",
+   "classId": "c5",
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "hours": 2
+  },
+  {
+   "id": "p61",
+   "classId": "c5",
+   "subjectId": "s15",
+   "teacherId": "t7",
+   "hours": 1
+  },
+  {
+   "id": "p62",
+   "classId": "c5",
+   "subjectId": "s16",
+   "teacherId": "t16",
+   "hours": 1
+  },
+  {
+   "id": "p63",
+   "classId": "c5",
+   "subjectId": "s2",
+   "teacherId": "t7",
+   "hours": 4
+  },
+  {
+   "id": "p64",
+   "classId": "c5",
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "hours": 7
+  },
+  {
+   "id": "p65",
+   "classId": "c5",
+   "subjectId": "s6",
+   "teacherId": "t5",
+   "hours": 1
+  },
+  {
+   "id": "p66",
+   "classId": "c5",
+   "subjectId": "s6",
+   "teacherId": "t7",
+   "hours": 2
+  },
+  {
+   "id": "p67",
+   "classId": "c5",
+   "subjectId": "s7",
+   "teacherId": "t9",
+   "hours": 2
+  },
+  {
+   "id": "p68",
+   "classId": "c5",
+   "subjectId": "s8",
+   "teacherId": "t5",
+   "hours": 2
+  },
+  {
+   "id": "p69",
+   "classId": "c5",
+   "subjectId": "s9",
+   "teacherId": "t7",
+   "hours": 1
+  },
+  {
+   "id": "p70",
+   "classId": "c6",
+   "subjectId": "s1",
+   "teacherId": "t14",
+   "hours": 1
+  },
+  {
+   "id": "p71",
+   "classId": "c6",
+   "subjectId": "s10",
+   "teacherId": "t17",
+   "hours": 1
+  },
+  {
+   "id": "p72",
+   "classId": "c6",
+   "subjectId": "s11",
+   "teacherId": "t16",
+   "hours": 1
+  },
+  {
+   "id": "p73",
+   "classId": "c6",
+   "subjectId": "s12",
+   "teacherId": "t14",
+   "hours": 2
+  },
+  {
+   "id": "p74",
+   "classId": "c6",
+   "subjectId": "s13",
+   "teacherId": "t17",
+   "hours": 2
+  },
+  {
+   "id": "p75",
+   "classId": "c6",
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "hours": 2
+  },
+  {
+   "id": "p76",
+   "classId": "c6",
+   "subjectId": "s15",
+   "teacherId": "t17",
+   "hours": 1
+  },
+  {
+   "id": "p77",
+   "classId": "c6",
+   "subjectId": "s16",
+   "teacherId": "t16",
+   "hours": 1
+  },
+  {
+   "id": "p78",
+   "classId": "c6",
+   "subjectId": "s2",
+   "teacherId": "t17",
+   "hours": 4
+  },
+  {
+   "id": "p79",
+   "classId": "c6",
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "hours": 7
+  },
+  {
+   "id": "p80",
+   "classId": "c6",
+   "subjectId": "s6",
+   "teacherId": "t16",
+   "hours": 1
+  },
+  {
+   "id": "p81",
+   "classId": "c6",
+   "subjectId": "s6",
+   "teacherId": "t17",
+   "hours": 1
+  },
+  {
+   "id": "p82",
+   "classId": "c6",
+   "subjectId": "s6",
+   "teacherId": "t18",
+   "hours": 1
+  },
+  {
+   "id": "p83",
+   "classId": "c6",
+   "subjectId": "s7",
+   "teacherId": "t18",
+   "hours": 2
+  },
+  {
+   "id": "p84",
+   "classId": "c6",
+   "subjectId": "s8",
+   "teacherId": "t17",
+   "hours": 2
+  },
+  {
+   "id": "p85",
+   "classId": "c6",
+   "subjectId": "s9",
+   "teacherId": "t14",
+   "hours": 1
+  },
+  {
+   "id": "p86",
+   "classId": "c7",
+   "subjectId": "s1",
+   "teacherId": "t19",
+   "hours": 1
+  },
+  {
+   "id": "p87",
+   "classId": "c7",
+   "subjectId": "s10",
+   "teacherId": "t19",
+   "hours": 1
+  },
+  {
+   "id": "p88",
+   "classId": "c7",
+   "subjectId": "s11",
+   "teacherId": "t8",
+   "hours": 1
+  },
+  {
+   "id": "p89",
+   "classId": "c7",
+   "subjectId": "s12",
+   "teacherId": "t8",
+   "hours": 2
+  },
+  {
+   "id": "p90",
+   "classId": "c7",
+   "subjectId": "s13",
+   "teacherId": "t19",
+   "hours": 2
+  },
+  {
+   "id": "p91",
+   "classId": "c7",
+   "subjectId": "s14",
+   "teacherId": "t15",
+   "hours": 2
+  },
+  {
+   "id": "p92",
+   "classId": "c7",
+   "subjectId": "s15",
+   "teacherId": "t19",
+   "hours": 1
+  },
+  {
+   "id": "p93",
+   "classId": "c7",
+   "subjectId": "s17",
+   "teacherId": "t19",
+   "hours": 1
+  },
+  {
+   "id": "p94",
+   "classId": "c7",
+   "subjectId": "s2",
+   "teacherId": "t19",
+   "hours": 4
+  },
+  {
+   "id": "p95",
+   "classId": "c7",
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "hours": 6
+  },
+  {
+   "id": "p96",
+   "classId": "c7",
+   "subjectId": "s6",
+   "teacherId": "t15",
+   "hours": 1
+  },
+  {
+   "id": "p97",
+   "classId": "c7",
+   "subjectId": "s6",
+   "teacherId": "t6",
+   "hours": 1
+  },
+  {
+   "id": "p98",
+   "classId": "c7",
+   "subjectId": "s6",
+   "teacherId": "t8",
+   "hours": 1
+  },
+  {
+   "id": "p99",
+   "classId": "c7",
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "hours": 2
+  },
+  {
+   "id": "p100",
+   "classId": "c7",
+   "subjectId": "s8",
+   "teacherId": "t19",
+   "hours": 3
+  },
+  {
+   "id": "p101",
+   "classId": "c7",
+   "subjectId": "s9",
+   "teacherId": "t8",
+   "hours": 1
+  },
+  {
+   "id": "p102",
+   "classId": "c8",
+   "subjectId": "s1",
+   "teacherId": "t20",
+   "hours": 1
+  },
+  {
+   "id": "p103",
+   "classId": "c8",
+   "subjectId": "s10",
+   "teacherId": "t20",
+   "hours": 1
+  },
+  {
+   "id": "p104",
+   "classId": "c8",
+   "subjectId": "s11",
+   "teacherId": "t20",
+   "hours": 1
+  },
+  {
+   "id": "p105",
+   "classId": "c8",
+   "subjectId": "s12",
+   "teacherId": "t20",
+   "hours": 2
+  },
+  {
+   "id": "p106",
+   "classId": "c8",
+   "subjectId": "s13",
+   "teacherId": "t21",
+   "hours": 2
+  },
+  {
+   "id": "p107",
+   "classId": "c8",
+   "subjectId": "s14",
+   "teacherId": "t20",
+   "hours": 2
+  },
+  {
+   "id": "p108",
+   "classId": "c8",
+   "subjectId": "s15",
+   "teacherId": "t21",
+   "hours": 1
+  },
+  {
+   "id": "p109",
+   "classId": "c8",
+   "subjectId": "s17",
+   "teacherId": "t21",
+   "hours": 1
+  },
+  {
+   "id": "p110",
+   "classId": "c8",
+   "subjectId": "s2",
+   "teacherId": "t21",
+   "hours": 4
+  },
+  {
+   "id": "p111",
+   "classId": "c8",
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "hours": 6
+  },
+  {
+   "id": "p112",
+   "classId": "c8",
+   "subjectId": "s6",
+   "teacherId": "t21",
+   "hours": 2
+  },
+  {
+   "id": "p113",
+   "classId": "c8",
+   "subjectId": "s6",
+   "teacherId": "t6",
+   "hours": 1
+  },
+  {
+   "id": "p114",
+   "classId": "c8",
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "hours": 2
+  },
+  {
+   "id": "p115",
+   "classId": "c8",
+   "subjectId": "s8",
+   "teacherId": "t22",
+   "hours": 3
+  },
+  {
+   "id": "p116",
+   "classId": "c8",
+   "subjectId": "s9",
+   "teacherId": "t21",
+   "hours": 1
+  },
+  {
+   "id": "p117",
+   "classId": "c9",
+   "subjectId": "s1",
+   "teacherId": "t23",
+   "hours": 1
+  },
+  {
+   "id": "p118",
+   "classId": "c9",
+   "subjectId": "s10",
+   "teacherId": "t3",
+   "hours": 1
+  },
+  {
+   "id": "p119",
+   "classId": "c9",
+   "subjectId": "s11",
+   "teacherId": "t3",
+   "hours": 1
+  },
+  {
+   "id": "p120",
+   "classId": "c9",
+   "subjectId": "s12",
+   "teacherId": "t23",
+   "hours": 2
+  },
+  {
+   "id": "p121",
+   "classId": "c9",
+   "subjectId": "s13",
+   "teacherId": "t3",
+   "hours": 2
+  },
+  {
+   "id": "p122",
+   "classId": "c9",
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "hours": 2
+  },
+  {
+   "id": "p123",
+   "classId": "c9",
+   "subjectId": "s15",
+   "teacherId": "t3",
+   "hours": 1
+  },
+  {
+   "id": "p124",
+   "classId": "c9",
+   "subjectId": "s18",
+   "teacherId": "t23",
+   "hours": 1
+  },
+  {
+   "id": "p125",
+   "classId": "c9",
+   "subjectId": "s2",
+   "teacherId": "t3",
+   "hours": 4
+  },
+  {
+   "id": "p126",
+   "classId": "c9",
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "hours": 6
+  },
+  {
+   "id": "p127",
+   "classId": "c9",
+   "subjectId": "s6",
+   "teacherId": "t16",
+   "hours": 2
+  },
+  {
+   "id": "p128",
+   "classId": "c9",
+   "subjectId": "s6",
+   "teacherId": "t3",
+   "hours": 1
+  },
+  {
+   "id": "p129",
+   "classId": "c9",
+   "subjectId": "s7",
+   "teacherId": "t23",
+   "hours": 2
+  },
+  {
+   "id": "p130",
+   "classId": "c9",
+   "subjectId": "s8",
+   "teacherId": "t1",
+   "hours": 3
+  },
+  {
+   "id": "p131",
+   "classId": "c9",
+   "subjectId": "s9",
+   "teacherId": "t23",
+   "hours": 1
+  }
+ ],
+ "lessons": [
+  {
+   "id": "l1",
+   "classId": "c1",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l2",
+   "classId": "c1",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s2",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l3",
+   "classId": "c1",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l4",
+   "classId": "c1",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s4",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l5",
+   "classId": "c1",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s5",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l6",
+   "classId": "c1",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l7",
+   "classId": "c1",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l8",
+   "classId": "c1",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l9",
+   "classId": "c1",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l10",
+   "classId": "c1",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s7",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l11",
+   "classId": "c1",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l12",
+   "classId": "c1",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l13",
+   "classId": "c1",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s8",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l14",
+   "classId": "c1",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l15",
+   "classId": "c1",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s4",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l16",
+   "classId": "c1",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l17",
+   "classId": "c1",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l18",
+   "classId": "c1",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l19",
+   "classId": "c1",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s5",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l20",
+   "classId": "c1",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l21",
+   "classId": "c1",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l22",
+   "classId": "c1",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l23",
+   "classId": "c1",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l24",
+   "classId": "c1",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l25",
+   "classId": "c1",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s9",
+   "teacherId": "t2",
+   "locked": false
+  },
+  {
+   "id": "l26",
+   "classId": "c1",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s10",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l27",
+   "classId": "c2",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l28",
+   "classId": "c2",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l29",
+   "classId": "c2",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l30",
+   "classId": "c2",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s5",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l31",
+   "classId": "c2",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l32",
+   "classId": "c2",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l33",
+   "classId": "c2",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l34",
+   "classId": "c2",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l35",
+   "classId": "c2",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l36",
+   "classId": "c2",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l37",
+   "classId": "c2",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s4",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l38",
+   "classId": "c2",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l39",
+   "classId": "c2",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s5",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l40",
+   "classId": "c2",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l41",
+   "classId": "c2",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s7",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l42",
+   "classId": "c2",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s4",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l43",
+   "classId": "c2",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l44",
+   "classId": "c2",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l45",
+   "classId": "c2",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l46",
+   "classId": "c2",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l47",
+   "classId": "c2",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s8",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l48",
+   "classId": "c2",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l49",
+   "classId": "c2",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l50",
+   "classId": "c2",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s6",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l51",
+   "classId": "c2",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s10",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l52",
+   "classId": "c2",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s9",
+   "teacherId": "t4",
+   "locked": false
+  },
+  {
+   "id": "l53",
+   "classId": "c3",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l54",
+   "classId": "c3",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l55",
+   "classId": "c3",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l56",
+   "classId": "c3",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s11",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l57",
+   "classId": "c3",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s12",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l58",
+   "classId": "c3",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s13",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l59",
+   "classId": "c3",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l60",
+   "classId": "c3",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s14",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l61",
+   "classId": "c3",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l62",
+   "classId": "c3",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l63",
+   "classId": "c3",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l64",
+   "classId": "c3",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s13",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l65",
+   "classId": "c3",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l66",
+   "classId": "c3",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l67",
+   "classId": "c3",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s15",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l68",
+   "classId": "c3",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s2",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l69",
+   "classId": "c3",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s16",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l70",
+   "classId": "c3",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l71",
+   "classId": "c3",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l72",
+   "classId": "c3",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l73",
+   "classId": "c3",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s6",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l74",
+   "classId": "c3",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s14",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l75",
+   "classId": "c3",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l76",
+   "classId": "c3",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s8",
+   "teacherId": "t11",
+   "locked": false
+  },
+  {
+   "id": "l77",
+   "classId": "c3",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l78",
+   "classId": "c3",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l79",
+   "classId": "c3",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s8",
+   "teacherId": "t11",
+   "locked": false
+  },
+  {
+   "id": "l80",
+   "classId": "c3",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t11",
+   "locked": false
+  },
+  {
+   "id": "l81",
+   "classId": "c3",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s9",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l82",
+   "classId": "c3",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s10",
+   "teacherId": "t10",
+   "locked": false
+  },
+  {
+   "id": "l83",
+   "classId": "c4",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l84",
+   "classId": "c4",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l85",
+   "classId": "c4",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l86",
+   "classId": "c4",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s17",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l87",
+   "classId": "c4",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s12",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l88",
+   "classId": "c4",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l89",
+   "classId": "c4",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l90",
+   "classId": "c4",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l91",
+   "classId": "c4",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l92",
+   "classId": "c4",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s8",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l93",
+   "classId": "c4",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s11",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l94",
+   "classId": "c4",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l95",
+   "classId": "c4",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l96",
+   "classId": "c4",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s13",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l97",
+   "classId": "c4",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l98",
+   "classId": "c4",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l99",
+   "classId": "c4",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s14",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l100",
+   "classId": "c4",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l101",
+   "classId": "c4",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l102",
+   "classId": "c4",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s8",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l103",
+   "classId": "c4",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l104",
+   "classId": "c4",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l105",
+   "classId": "c4",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s15",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l106",
+   "classId": "c4",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l107",
+   "classId": "c4",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l108",
+   "classId": "c4",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s13",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l109",
+   "classId": "c4",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s14",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l110",
+   "classId": "c4",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l111",
+   "classId": "c4",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s9",
+   "teacherId": "t13",
+   "locked": false
+  },
+  {
+   "id": "l112",
+   "classId": "c4",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s10",
+   "teacherId": "t12",
+   "locked": false
+  },
+  {
+   "id": "l113",
+   "classId": "c5",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l114",
+   "classId": "c5",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l115",
+   "classId": "c5",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l116",
+   "classId": "c5",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s13",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l117",
+   "classId": "c5",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s8",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l118",
+   "classId": "c5",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l119",
+   "classId": "c5",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l120",
+   "classId": "c5",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l121",
+   "classId": "c5",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l122",
+   "classId": "c5",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l123",
+   "classId": "c5",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s8",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l124",
+   "classId": "c5",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l125",
+   "classId": "c5",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l126",
+   "classId": "c5",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s16",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l127",
+   "classId": "c5",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l128",
+   "classId": "c5",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l129",
+   "classId": "c5",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t5",
+   "locked": false
+  },
+  {
+   "id": "l130",
+   "classId": "c5",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s15",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l131",
+   "classId": "c5",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l132",
+   "classId": "c5",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s12",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l133",
+   "classId": "c5",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s13",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l134",
+   "classId": "c5",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s11",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l135",
+   "classId": "c5",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l136",
+   "classId": "c5",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l137",
+   "classId": "c5",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l138",
+   "classId": "c5",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l139",
+   "classId": "c5",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l140",
+   "classId": "c5",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s7",
+   "teacherId": "t9",
+   "locked": false
+  },
+  {
+   "id": "l141",
+   "classId": "c5",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s10",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l142",
+   "classId": "c5",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s9",
+   "teacherId": "t7",
+   "locked": false
+  },
+  {
+   "id": "l143",
+   "classId": "c6",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l144",
+   "classId": "c6",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l145",
+   "classId": "c6",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l146",
+   "classId": "c6",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s13",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l147",
+   "classId": "c6",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t18",
+   "locked": false
+  },
+  {
+   "id": "l148",
+   "classId": "c6",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l149",
+   "classId": "c6",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l150",
+   "classId": "c6",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l151",
+   "classId": "c6",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l152",
+   "classId": "c6",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s8",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l153",
+   "classId": "c6",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l154",
+   "classId": "c6",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l155",
+   "classId": "c6",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l156",
+   "classId": "c6",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s8",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l157",
+   "classId": "c6",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l158",
+   "classId": "c6",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l159",
+   "classId": "c6",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s16",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l160",
+   "classId": "c6",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s15",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l161",
+   "classId": "c6",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l162",
+   "classId": "c6",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l163",
+   "classId": "c6",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l164",
+   "classId": "c6",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l165",
+   "classId": "c6",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s12",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l166",
+   "classId": "c6",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s7",
+   "teacherId": "t18",
+   "locked": false
+  },
+  {
+   "id": "l167",
+   "classId": "c6",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l168",
+   "classId": "c6",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s7",
+   "teacherId": "t18",
+   "locked": false
+  },
+  {
+   "id": "l169",
+   "classId": "c6",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s13",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l170",
+   "classId": "c6",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s11",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l171",
+   "classId": "c6",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s10",
+   "teacherId": "t17",
+   "locked": false
+  },
+  {
+   "id": "l172",
+   "classId": "c6",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s9",
+   "teacherId": "t14",
+   "locked": false
+  },
+  {
+   "id": "l173",
+   "classId": "c7",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l174",
+   "classId": "c7",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s8",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l175",
+   "classId": "c7",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l176",
+   "classId": "c7",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l177",
+   "classId": "c7",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s13",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l178",
+   "classId": "c7",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s11",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l179",
+   "classId": "c7",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l180",
+   "classId": "c7",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s12",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l181",
+   "classId": "c7",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l182",
+   "classId": "c7",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s14",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l183",
+   "classId": "c7",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l184",
+   "classId": "c7",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s17",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l185",
+   "classId": "c7",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l186",
+   "classId": "c7",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s15",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l187",
+   "classId": "c7",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l188",
+   "classId": "c7",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l189",
+   "classId": "c7",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s8",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l190",
+   "classId": "c7",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l191",
+   "classId": "c7",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l192",
+   "classId": "c7",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l193",
+   "classId": "c7",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l194",
+   "classId": "c7",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s8",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l195",
+   "classId": "c7",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s14",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l196",
+   "classId": "c7",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s13",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l197",
+   "classId": "c7",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l198",
+   "classId": "c7",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l199",
+   "classId": "c7",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l200",
+   "classId": "c7",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t15",
+   "locked": false
+  },
+  {
+   "id": "l201",
+   "classId": "c7",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s9",
+   "teacherId": "t8",
+   "locked": false
+  },
+  {
+   "id": "l202",
+   "classId": "c7",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s10",
+   "teacherId": "t19",
+   "locked": false
+  },
+  {
+   "id": "l203",
+   "classId": "c8",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l204",
+   "classId": "c8",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l205",
+   "classId": "c8",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l206",
+   "classId": "c8",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s13",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l207",
+   "classId": "c8",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l208",
+   "classId": "c8",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l209",
+   "classId": "c8",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l210",
+   "classId": "c8",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s12",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l211",
+   "classId": "c8",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s13",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l212",
+   "classId": "c8",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s8",
+   "teacherId": "t22",
+   "locked": false
+  },
+  {
+   "id": "l213",
+   "classId": "c8",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s17",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l214",
+   "classId": "c8",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s6",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l215",
+   "classId": "c8",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l216",
+   "classId": "c8",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s15",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l217",
+   "classId": "c8",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l218",
+   "classId": "c8",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s14",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l219",
+   "classId": "c8",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s7",
+   "teacherId": "t6",
+   "locked": false
+  },
+  {
+   "id": "l220",
+   "classId": "c8",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l221",
+   "classId": "c8",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l222",
+   "classId": "c8",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s6",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l223",
+   "classId": "c8",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l224",
+   "classId": "c8",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l225",
+   "classId": "c8",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s8",
+   "teacherId": "t22",
+   "locked": false
+  },
+  {
+   "id": "l226",
+   "classId": "c8",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s11",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l227",
+   "classId": "c8",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l228",
+   "classId": "c8",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s8",
+   "teacherId": "t22",
+   "locked": false
+  },
+  {
+   "id": "l229",
+   "classId": "c8",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l230",
+   "classId": "c8",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s14",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l231",
+   "classId": "c8",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s9",
+   "teacherId": "t21",
+   "locked": false
+  },
+  {
+   "id": "l232",
+   "classId": "c8",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s10",
+   "teacherId": "t20",
+   "locked": false
+  },
+  {
+   "id": "l233",
+   "classId": "c9",
+   "day": 0,
+   "period": 0,
+   "subjectId": "s1",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l234",
+   "classId": "c9",
+   "day": 0,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l235",
+   "classId": "c9",
+   "day": 0,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l236",
+   "classId": "c9",
+   "day": 0,
+   "period": 3,
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l237",
+   "classId": "c9",
+   "day": 0,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l238",
+   "classId": "c9",
+   "day": 0,
+   "period": 5,
+   "subjectId": "s18",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l239",
+   "classId": "c9",
+   "day": 1,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l240",
+   "classId": "c9",
+   "day": 1,
+   "period": 1,
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l241",
+   "classId": "c9",
+   "day": 1,
+   "period": 2,
+   "subjectId": "s13",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l242",
+   "classId": "c9",
+   "day": 1,
+   "period": 3,
+   "subjectId": "s8",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l243",
+   "classId": "c9",
+   "day": 1,
+   "period": 4,
+   "subjectId": "s6",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l244",
+   "classId": "c9",
+   "day": 1,
+   "period": 5,
+   "subjectId": "s12",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l245",
+   "classId": "c9",
+   "day": 2,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l246",
+   "classId": "c9",
+   "day": 2,
+   "period": 1,
+   "subjectId": "s11",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l247",
+   "classId": "c9",
+   "day": 2,
+   "period": 2,
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l248",
+   "classId": "c9",
+   "day": 2,
+   "period": 3,
+   "subjectId": "s6",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l249",
+   "classId": "c9",
+   "day": 2,
+   "period": 4,
+   "subjectId": "s12",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l250",
+   "classId": "c9",
+   "day": 2,
+   "period": 5,
+   "subjectId": "s8",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l251",
+   "classId": "c9",
+   "day": 3,
+   "period": 0,
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l252",
+   "classId": "c9",
+   "day": 3,
+   "period": 1,
+   "subjectId": "s7",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l253",
+   "classId": "c9",
+   "day": 3,
+   "period": 2,
+   "subjectId": "s2",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l254",
+   "classId": "c9",
+   "day": 3,
+   "period": 3,
+   "subjectId": "s13",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l255",
+   "classId": "c9",
+   "day": 3,
+   "period": 4,
+   "subjectId": "s14",
+   "teacherId": "t16",
+   "locked": false
+  },
+  {
+   "id": "l256",
+   "classId": "c9",
+   "day": 3,
+   "period": 5,
+   "subjectId": "s8",
+   "teacherId": "t1",
+   "locked": false
+  },
+  {
+   "id": "l257",
+   "classId": "c9",
+   "day": 4,
+   "period": 0,
+   "subjectId": "s2",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l258",
+   "classId": "c9",
+   "day": 4,
+   "period": 1,
+   "subjectId": "s15",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l259",
+   "classId": "c9",
+   "day": 4,
+   "period": 2,
+   "subjectId": "s7",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l260",
+   "classId": "c9",
+   "day": 4,
+   "period": 3,
+   "subjectId": "s3",
+   "teacherId": "t23",
+   "locked": false
+  },
+  {
+   "id": "l261",
+   "classId": "c9",
+   "day": 4,
+   "period": 4,
+   "subjectId": "s10",
+   "teacherId": "t3",
+   "locked": false
+  },
+  {
+   "id": "l262",
+   "classId": "c9",
+   "day": 4,
+   "period": 5,
+   "subjectId": "s9",
+   "teacherId": "t23",
+   "locked": false
+  }
+ ]
+}

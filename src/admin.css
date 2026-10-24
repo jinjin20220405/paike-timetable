@@ -1,0 +1,58 @@
+/* admin.css — 成员 C：基础数据 / 数据与导出 */
+.pk-ad-layout{display:grid;grid-template-columns:150px minmax(0,1fr);gap:16px;align-items:start}
+.pk-ad-nav{display:flex;flex-direction:column;gap:4px;background:var(--pk-card);border:1px solid var(--pk-line);border-radius:8px;padding:8px;position:sticky;top:68px}
+.pk-ad-navbtn{background:none;border:0;text-align:left;padding:9px 12px;border-radius:6px;cursor:pointer;font-size:14px;color:var(--pk-fg)}
+.pk-ad-navbtn:hover{background:#eef3fc;color:var(--pk-primary)}
+.pk-ad-navbtn.active{background:var(--pk-primary);color:#fff}
+.pk-ad-body{min-width:0}
+.pk-ad-head{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.pk-ad-h2{margin:0 0 2px;font-size:18px}
+.pk-ad-desc{font-size:13px}
+.pk-ad-table td{vertical-align:middle}
+.pk-ad-table th{white-space:nowrap}
+.pk-ad-table tbody tr:hover td{background:#fafbfd}
+.pk-ad-empty{text-align:center;padding:24px!important}
+.pk-ad-nowrap{white-space:nowrap}
+.pk-ad-w-sort{width:84px}.pk-ad-w-ops{width:120px}.pk-ad-w-ops1{width:110px}.pk-ad-w-ops3{width:210px}.pk-ad-w-color{width:60px}.pk-ad-w-num{width:100px}
+.pk-btn.pk-ad-sm{padding:2px 8px;font-size:12px}
+.pk-ad-num{width:70px}
+.pk-ad-wide{min-width:260px}
+.pk-ad-color{width:40px;height:28px;padding:0;border:1px solid var(--pk-line);border-radius:4px;background:#fff;cursor:pointer}
+.pk-ad-chip{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:middle}
+.pk-ad-tc{display:inline-block;margin:1px 10px 1px 0}
+.pk-ad-unset{color:var(--pk-warn);border-color:#f3d39b}
+.pk-ad-total td{background:#f7f8fa;font-weight:600}
+.pk-ad-tip{margin-bottom:12px;background:#fffaf0;border-color:#f3d9a8}
+.pk-ad-tipline{margin-top:6px}
+.pk-ad-sec{margin-bottom:14px}
+.pk-ad-sec h3{margin:0 0 8px;font-size:15px}
+.pk-ad-mt{margin-top:10px}
+.pk-ad-cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;align-items:start}
+.pk-ad-cols .pk-ad-sec{margin-bottom:0}
+.pk-ad-cols .pk-input{width:100%}
+.pk-ad-danger{border-color:#f0c4c4}
+.pk-ad-data{max-width:900px}
+/* 表单 */
+.pk-ad-form{display:flex;flex-direction:column;gap:12px}
+.pk-ad-frow{display:grid;grid-template-columns:90px minmax(0,1fr);gap:10px;align-items:start}
+.pk-ad-flabel{padding-top:5px;color:#555;text-align:right}
+.pk-ad-fctl .pk-input,.pk-ad-fctl .pk-select{width:100%}
+.pk-ad-fctl input[type=color].pk-input{width:60px;height:32px;padding:2px}
+.pk-ad-hint{font-size:12px;color:var(--pk-muted);margin-top:4px}
+.pk-ad-radio{display:block;padding:3px 0;cursor:pointer}
+.pk-ad-checks{max-height:260px;overflow:auto;border:1px solid var(--pk-line);border-radius:6px;padding:6px 10px}
+.pk-ad-check{display:inline-flex;align-items:center;gap:4px;padding:3px 12px 3px 0;cursor:pointer}
+.pk-ad-checks .pk-ad-check{display:flex}
+.pk-ad-err{color:var(--pk-danger);min-height:1em;font-size:13px}
+.pk-ad-confirm p{margin:0 0 8px}
+.pk-ad-warn{color:#a66d12;font-weight:600}
+.pk-ad-ok{color:var(--pk-ok)}
+.pk-ad-conf{margin:4px 0 8px;padding-left:20px;max-height:220px;overflow:auto;font-size:13px}
+@media (max-width:760px){
+  .pk-ad-layout{grid-template-columns:1fr}
+  .pk-ad-nav{flex-direction:row;flex-wrap:wrap;position:static}
+  .pk-ad-frow{grid-template-columns:1fr}
+  .pk-ad-flabel{text-align:left;padding-top:0}
+  .pk-ad-wide{min-width:0;width:100%}
+  .pk-ad-table{display:block;overflow-x:auto}
+}
